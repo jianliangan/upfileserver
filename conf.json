@@ -1,0 +1,13 @@
+{
+        "socket":"0.0.0.0:9092",
+        "prefix":"ws",
+        "path":"/home/zhibo/__auto__/",
+        "method":"tcp",
+        "key":"tefsd33333366664",
+        "nodes":[
+                "192.168.22.103:80"
+        ],
+        "name":"node1",
+        "authurl": "http://test.com:88/index.php/c/clientstart",
+        "authrest":"http://test.com/api_teacher/authentication/"
+}
